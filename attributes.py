@@ -1,8 +1,25 @@
-CP_TYPICAL_ANGINA = 1
-CP_ATYPICAL_ANGINA = 2
-CP_NON_ANGINAL_PAIN = 3
-CP_ASYMPTOMATIC = 4
+from enum import Enum
 
-RE_NORMAL = 0
-RE_ABNORMAL = 1
-RE_HYPERTROPHY = 2
+class Sex(Enum):
+    MALE = 1
+    FEMALE = 0
+
+class ChestPain(Enum):
+    TYPICAL_ANGINA = 0
+    ATYPICAL_ANGINA = 1
+    NON_ANGINAL_PAIN = 2
+    ASYMPTOMATIC = 3
+
+class ECG(Enum):
+    NORMAL = 0
+    ABNORMAL = 1
+    HYPERTROPHY = 2
+
+class Slope(Enum):
+    UP = 1
+    FLAT = 2
+    DOWN = 3
+
+class HeartAttack(Enum):
+    Likely = 1
+    NotLikely = 0
