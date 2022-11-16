@@ -23,3 +23,9 @@ class Slope(Enum):
 class HeartAttack(Enum):
     Likely = 1
     NotLikely = 0
+
+class Thalassemia(Enum):
+    NULL = 0
+    FIXED_DEFECT = 1
+    NORMAL = 2
+    REVERSABLE_DEFECT = 3

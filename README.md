@@ -57,7 +57,7 @@ To better understand the dataset, we need to understand each of its features.
   **Rest**ing **e**lectro**c**ardio**g**raphic results
   
   - **0** = normal
-  - **1** = having ST-T wave abnormality
+  - **1** = having ST-T wave abnormality  
     (T wave inversions and/or ST elevation or depression of > 0.05 *mV*)
   - **2** = showing probable or definite left ventricular hypertrophy by Estes' criteria
 
