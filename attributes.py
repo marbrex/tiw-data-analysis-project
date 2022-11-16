@@ -16,9 +16,9 @@ class ECG(Enum):
     HYPERTROPHY = 2
 
 class Slope(Enum):
-    UP = 1
-    FLAT = 2
-    DOWN = 3
+    UP = 0
+    FLAT = 1
+    DOWN = 2
 
 class HeartAttack(Enum):
     Likely = 1
