@@ -1,5 +1,7 @@
 # Data Analysis - Heart Attack Prediction
 
+[TOC]
+
 Dataset
 ---
 
