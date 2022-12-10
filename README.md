@@ -5,7 +5,9 @@
 Content
 ---
 
-The project contents are in the `heart-attack-prediction-and-analysis.ipynb` Jupyter Notebook file.
+The project contents are in [this Jupyter Notebook file](./heart-attack-prediction-and-analysis.ipynb).
+
+- heart-attack-prediction-and-analysis.ipynb
 
 Dataset
 ---
