@@ -10,6 +10,10 @@ Dataset
 This dataset was taken from *Kaggle*. \
 You can find it by following [this link](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
 
+### Content
+
+The project contents are in the `heart-attack-prediction-and-analysis.ipynb` Jupyter Notebook file.
+
 ### Description
 
 To better understand the dataset, we need to understand each of its features. 
