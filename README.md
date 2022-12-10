@@ -2,6 +2,11 @@
 
 [TOC]
 
+Content
+---
+
+The project contents are in the `heart-attack-prediction-and-analysis.ipynb` Jupyter Notebook file.
+
 Dataset
 ---
 
@@ -9,10 +14,6 @@ Dataset
 
 This dataset was taken from *Kaggle*. \
 You can find it by following [this link](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
-
-### Content
-
-The project contents are in the `heart-attack-prediction-and-analysis.ipynb` Jupyter Notebook file.
 
 ### Description
 
