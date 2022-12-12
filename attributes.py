@@ -29,3 +29,11 @@ class Thalassemia(Enum):
     FIXED_DEFECT = 1
     NORMAL = 2
     REVERSABLE_DEFECT = 3
+
+class BloodSugarLevel(Enum):
+    DIABETE = 1
+    NORMAL = 0
+
+class ExerciseInducedAngina(Enum):
+    YES = 1
+    NO = 0
